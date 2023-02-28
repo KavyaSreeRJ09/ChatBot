@@ -3,9 +3,8 @@ To perform mathematical calculations
 
 ![image](https://user-images.githubusercontent.com/117114012/221778359-ba632af6-1f26-4557-9026-e54109df6c43.png)
 
+![image](https://user-images.githubusercontent.com/117114012/221778468-735fb5b1-aa4e-46b3-8f49-cf16a2d22eb6.png)
 
-![image](https://user-images.githubusercontent.com/117114012/221776573-79c58dc0-238f-44be-a392-fd5a6756e99b.png)
+![image](https://user-images.githubusercontent.com/117114012/221778573-8135dc43-90b4-4042-8e2b-8d3669633f76.png)
 
-![image](https://user-images.githubusercontent.com/117114012/221776713-b4952d79-5e3f-4d16-a312-d790f281fe4e.png)
 
-![image](https://user-images.githubusercontent.com/117114012/221777189-adf1ecad-9718-4dfc-a1f7-28b420647f18.png)
