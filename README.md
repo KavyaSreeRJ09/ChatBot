@@ -2,9 +2,11 @@
 To perform mathematical calculations
 
 # Tools & Technologies used 
-JavaScript 
-Html
-Css
+  JavaScript 
+
+  Html
+
+  Css
 
 # Output
 ![image](https://user-images.githubusercontent.com/117114012/221778359-ba632af6-1f26-4557-9026-e54109df6c43.png)
