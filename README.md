@@ -1,32 +1,31 @@
-# ChatBot
-To perform mathematical calculations
+# ChatBot - To perform mathematical calculations
 
-#Introduction
 
-  • A chatbot used here is an application to perform mathematical calculations.
-  
-  • It gets an expression from an user and make calculations and produce an output.
-  
-  • Appropriate input (numbers / expressions) should be given
-  
-  • It supports operations like addition,subtraction,multiplication,division,floor division,square of a number and many more.
-  
-  • The result obtained will be an accurate.
+# Introduction
+
+    • A chatbot used here is an application to perform mathematical calculations.
+
+    • It gets an expression from an user and make calculations and produce an output.
+
+    • Appropriate input (numbers / expressions) should be given.
+
+    • It supports operations like addition,subtraction,multiplication,division,floor division,square of a number and many more.
+
+    • The result obtained will be an accurate.
   
    
 # Tools used
 
-  • Visual Studio
+    • Visual Studio
     
     
 # Technologies used 
 
-  •JAVASCRIPT (main.js)
+    •JAVASCRIPT (main.js)
 
-  •HTML (index.html)
+    •HTML (index.html)
 
-  •SCSS (Style sheets)
-  
+    •SCSS (Style sheets)
   
   
 # Output
